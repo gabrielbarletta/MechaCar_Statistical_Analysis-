@@ -31,3 +31,7 @@ Lot 2 is not significantly different from the population mean.
 <img width="522" alt="D3 LOT 3" src="https://user-images.githubusercontent.com/92552837/153774171-1382546c-6100-4a1f-b625-98d53c535228.png">
 Log 3 is significantly different from the population mean. 
 
+## Deliverable 4 
+Another metric we could use is Horsepower. Sometimes smaller engines types help improve the mpg. 
+Null Hypothesis: There is no statistical difference.
+Alternative Hypothesis: There is a statistical difference. 
